@@ -1,0 +1,5 @@
+#!/bin/sh -e
+
+(/bin/udev &) &
+
+exit 0
